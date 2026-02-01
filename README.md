@@ -59,7 +59,11 @@ Il suffit d'héberger les fichiers sur n'importe quel serveur web supportant **P
 
 Ce projet est open source sous licence **MIT**. Vous êtes libre de le modifier, de le distribuer et de l'utiliser pour vos projets personnels ou rétro-computing.
 
+![Capture d’écran moderne](https://raw.githubusercontent.com/bricecornet/TERMINAL-PROXY/refs/heads/main/screen-shot.png)
+
 ---
+
+![Capture d’écran vintage](https://raw.githubusercontent.com/bricecornet/TERMINAL-PROXY/refs/heads/main/screen-shot-vintage.png)
 
 ## 🇬🇧 English
 
